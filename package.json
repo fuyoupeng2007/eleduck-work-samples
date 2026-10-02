@@ -1,0 +1,13 @@
+{
+  "name": "eleduck-work-samples",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node verify.mjs && node verify-v2.mjs && node final-check.mjs",
+    "package:wordpress": "node package-wordpress.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

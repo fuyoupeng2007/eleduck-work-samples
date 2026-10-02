@@ -1,0 +1,259 @@
+{
+  "title": "MASON METAL — Form studies",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "template": "elementor_canvas",
+    "body_classes": "mason-page"
+  },
+  "content": [
+    {
+      "id": "mmhead01",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "mmhead02",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[mason_metal_header]"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "mmhero01",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "55",
+          "bottom": "70",
+          "left": "90",
+          "isLinked": false
+        },
+        "css_classes": "mason-elementor-hero",
+        "min_height": {
+          "unit": "px",
+          "size": 620
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "40",
+          "right": "20",
+          "bottom": "300",
+          "left": "20",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mmeyeb01",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "COLLECTION 01 / FORM STUDIES",
+            "header_size": "span",
+            "title_color": "#191919",
+            "typography_typography": "custom",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 12
+            },
+            "typography_letter_spacing": {
+              "unit": "px",
+              "size": 2
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "mmtitle1",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Objects<br>of self.",
+            "header_size": "h1",
+            "title_color": "#191919",
+            "typography_typography": "custom",
+            "typography_font_family": "Arial",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 108
+            },
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 62
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+              "unit": "em",
+              "size": 0.95
+            },
+            "typography_letter_spacing": {
+              "unit": "px",
+              "size": -5
+            }
+          },
+          "elements": []
+        },
+        {
+          "id": "mmtext01",
+          "elType": "widget",
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>Quiet forms.<br>A singular presence.</p>",
+            "text_color": "#191919"
+          },
+          "elements": []
+        },
+        {
+          "id": "mmbtn001",
+          "elType": "widget",
+          "widgetType": "button",
+          "settings": {
+            "text": "Explore the collection",
+            "link": {
+              "url": "#collection"
+            },
+            "background_color": "#191919",
+            "button_text_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0,
+              "isLinked": true
+            }
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "mmcoll01",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "mmcoll02",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[mason_metal_collection]"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "mmabout1",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "mmabout2",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[mason_metal_perspective]"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "mmcare01",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "mmcare02",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[mason_metal_care]"
+          },
+          "elements": []
+        }
+      ]
+    },
+    {
+      "id": "mmfoot01",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "mmfoot02",
+          "elType": "widget",
+          "widgetType": "shortcode",
+          "settings": {
+            "shortcode": "[mason_metal_footer][mason_metal_dialogs]"
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}

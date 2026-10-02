@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": [
+    "salon: filters, 4 pending + 4 differences",
+    "salon: valid import, quoted CSV, rejects missing numeric input atomically",
+    "expo: check-in, duplicate prevention",
+    "expo: create/publish, optional fields, register, capacity guard",
+    "expo: booth allocation, survives reload",
+    "mason: filter, detail, sizes, bag quantity, selection download",
+    "mason: message downloaded without sending",
+    "all: desktop/mobile render, no JS runtime errors, no page horizontal overflow"
+  ],
+  "errors": []
+}

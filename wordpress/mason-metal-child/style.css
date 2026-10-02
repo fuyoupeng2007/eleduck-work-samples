@@ -1,0 +1,9 @@
+/*
+Theme Name: MASON METAL Sample Child
+Description: Original jewelry storefront review sample, extending Astra. Includes a sample page template and Elementor integration.
+Author: MASON METAL Sample Studio
+Version: 1.0.0
+Template: astra
+Text Domain: mason-metal-child
+*/
+.mm-woo .woocommerce ul.products li.product .woocommerce-loop-product__title{font-size:16px;font-weight:400}.mm-woo .woocommerce ul.products li.product .price{color:#555;font-size:14px}.mm-woo .woocommerce a.button{background:#191919;color:white;border-radius:0;padding:12px 20px}.mm-woo .woocommerce ul.products li.product img{background:#ededeb}.mason-page{margin:0!important;padding:0!important;max-width:none!important}.mason-page .elementor-widget-container h1,.mason-page .elementor-widget-container h2{font-family:Arial,sans-serif}.mason-page .elementor-shortcode{width:100%}
