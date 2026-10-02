@@ -1,0 +1,80 @@
+{
+  "observed": "2026-10-02",
+  "list_snapshot": "2026-10-01",
+  "detail_access": "Detail pages inaccessible or require verification; summaries only. Availability and full scope unconfirmed.",
+  "opportunities": [
+    {
+      "id": "gYf7xg",
+      "title": "企业数字化转型：数据集成+看板+流程线上化+AI，远程兼职",
+      "summary": "需要开发的功能 数据看板：把电商、CRM的经营数据接进来（接口不通的用 RPA 抓取），搭一个管理层能看的 BI 看板，数据自动更新，能用 AI 生成周期性经营分析。 线下业务系统：把订单、费用、合同、回款等线下数据做成统一的数据池和录入管理系统，迁移现有 Excel 台账。 流程线上化：按我们梳理好的框架，把线下审批流程做成线上表单，实现流转和数据留痕。 企业知识库：把本地的经营文件、会议记录、",
+      "published_at": "2026-09-29T18:02:12.737+08:00",
+      "url": "https://eleduck.com/posts/gYf7xg",
+      "snapshot_closed": false,
+      "snapshot_deleted": false,
+      "refreshed_summary": true,
+      "observed_at": "2026-10-02",
+      "availability": "未联系发布者，是否仍接受合作未知"
+    },
+    {
+      "id": "Ygf53K",
+      "title": "跨境电商运营助理｜远程兼职｜在校大学生优先",
+      "summary": "我们是一支小型跨境电商团队，目前主要做日本电商平台相关业务，现招聘一名长期远程兼职的运营助理。 希望找到一位逻辑清晰、责任心强、时间相对充裕的人，长期协助处理日常订单、采购、发货和数据整理工作。 【主要工作】 订单整理与登记 整理每日销售订单，并维护相关表格和数据。 采购进度跟进 将订单需求同步给采购人员，并持续跟进采购、发货、到货情况。 催单与异常处理 发现订单长时间未采购、未发货、物流异常等情",
+      "published_at": "2026-09-27T07:31:35.204+08:00",
+      "url": "https://eleduck.com/posts/Ygf53K",
+      "snapshot_closed": false,
+      "snapshot_deleted": false,
+      "refreshed_summary": true,
+      "observed_at": "2026-10-02",
+      "availability": "未联系发布者，是否仍接受合作未知"
+    },
+    {
+      "id": "lafmO1",
+      "title": "【全栈工程师】 钓鱼类微信小程序 | 可兼职/远程 | 重庆成都优先",
+      "summary": "工作方式：兼职合作，重庆成都优先，可远程协作沟通。   经验要求：两年以上软件或产品开发经验，2—5年经验，钓友优先。   技术要求： · 前端：uni-app / Vue3 · 后端：Node.js / Python / Java 任一，能写 RESTful 接口 · 数据库：MySQL 或 PostgreSQL · 会接地图 SDK 合作：远程兼职，每周 15-20 小时，按模块结算（做完验收",
+      "published_at": "2026-09-25T16:58:18.504+08:00",
+      "url": "https://eleduck.com/posts/lafmO1",
+      "snapshot_closed": false,
+      "snapshot_deleted": false,
+      "refreshed_summary": true,
+      "observed_at": "2026-10-02",
+      "availability": "未联系发布者，是否仍接受合作未知"
+    },
+    {
+      "id": "2LfObD",
+      "title": "【项目外包】微信生鲜团购+供应链订单管理小程序开发",
+      "summary": "项目背景   自有生鲜/食品配送业务，希望开发一套微信团购小程序用于实际运营。接受基于 CRMEB 等成熟、授权清晰的开源商城进行二次开发，不要求从零开发。 用户端   商品分类/搜索、商品详情、购物车、地址、下单、微信支付、订单查询、团购商品上架/订阅提醒。 商家后台   商品上下架、规格管理、每日/批量修改价格、订单管理、每日销售数据统计。 核心需求  团购商品设置订货/截单时间；  截单后按",
+      "published_at": "2026-09-05T06:34:17.474+08:00",
+      "url": "https://eleduck.com/posts/2LfObD",
+      "snapshot_closed": false,
+      "snapshot_deleted": false,
+      "refreshed_summary": false,
+      "observed_at": "2026-10-01",
+      "availability": "未联系发布者，是否仍接受合作未知"
+    },
+    {
+      "id": "dDf39x",
+      "title": "【外包零活/远程】寻数据库高手，协助将 Access 系统迁移升级至 Airtable (含 BOM 架构)",
+      "summary": "【项目背景】 本公司为一家香港/深圳跨国贸易公司，主要经营日本厂家电子设备。现有内部 Access 数据库，因业务扩展，需将其整体迁移升级至云端 Airtable，以实现香港与深圳两地的网页协同与权限隔离。 【核心需求】  数据清洗与迁移： 将现有 Access 数据库中的产品主表、客户数据及历史台账清洗并完整迁移至 Airtable。  BOM 架构重建： 熟练处理设备多层级、复杂的阶梯式 BO",
+      "published_at": "2026-08-30T02:46:57.296+08:00",
+      "url": "https://eleduck.com/posts/dDf39x",
+      "snapshot_closed": false,
+      "snapshot_deleted": false,
+      "refreshed_summary": true,
+      "observed_at": "2026-10-02",
+      "availability": "未联系发布者，是否仍接受合作未知"
+    },
+    {
+      "id": "rdf4Ww",
+      "title": "【远程兼职】CRM 产品 QA 测试工程师",
+      "summary": "公司简介 我们在做一款面向全球用户的 CRM（客户关系管理）产品，核心功能包括销售流程管理、邮件系统集成、以及跨平台（桌面端 + Chrome 插件）的数据同步。产品目前面向海外市场，用户分布在多个国家，部分第三方集成界面只有当地语言（例如挪威语），需要测试时，能借助浏览器翻译工具准确判断功能是否正常。 岗位职责   CRM 核心功能测试（销售流程、数据管理等模块）   桌面客户端 + Chrom",
+      "published_at": "2026-09-10T02:40:45.843+08:00",
+      "url": "https://eleduck.com/posts/rdf4Ww",
+      "snapshot_closed": false,
+      "snapshot_deleted": false,
+      "refreshed_summary": true,
+      "observed_at": "2026-10-02",
+      "availability": "未联系发布者，是否仍接受合作未知"
+    }
+  ],
+  "refresh_attempt": "2026-10-02 公开列表页 1/2/3/8/9/12，无绕过验证码；详情未读全"
+}

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "tests": 11,
+  "date": "2026-10-02",
+  "command": "node --test tests/domain.test.mjs",
+  "evidence": "Actual Node test runner completed: 11 passed, 0 failed. See tests/domain.test.mjs for reproducible rules."
+}

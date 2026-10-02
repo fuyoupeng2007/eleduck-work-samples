@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "date": "2026-10-02T07:20:49.519Z",
+  "checks": [
+    "ops: two-stage approvals, overpayment rejected atomically, partial collection",
+    "orders: exception queue, procurement flow, follow-up persistence",
+    "fish: favorite filtering, validated catch journal",
+    "fresh: checkout totals, stock reduction, cancellation recovery, cutoff enforcement",
+    "bom: costs, cyclic relation rejected, demand recalculation, invalid migration leaves data intact",
+    "qa: failed evidence creates linked defect; no close before passed regression; result history retained",
+    "shared: CSV download, backup roundtrip, six desktop + mobile screenshots, all mobile tabs without page overflow"
+  ],
+  "errors": []
+}

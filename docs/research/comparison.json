@@ -1,0 +1,86 @@
+{
+  "ops": [
+    [
+      "Lark Approval",
+      "https://www.larksuite.com/hc/en-US/articles/953059117412-admin-get-started-with-managing-approval",
+      "管理员可以配置审批人和条件分支。",
+      "采用固定示例阈值的经理→财务两级审批；保留意见和操作记录。"
+    ],
+    [
+      "Notion",
+      "https://www.notion.com/help/relations-and-rollups",
+      "数据库可用关联与汇总组织关系数据。",
+      "将费用、合同与回款整理在同一个工作台，但不提供自由数据库建模。"
+    ]
+  ],
+  "orders": [
+    [
+      "Shopify",
+      "https://help.shopify.com/en/manual/products/inventory/purchase-orders",
+      "采购订单记录供应商、数量与成本等商业信息，并可跟踪后续库存转移。",
+      "补齐供应商与 SKU 汇总，记录采购、到货、发货；不计算未提供的采购成本。"
+    ],
+    [
+      "Zoho Inventory",
+      "https://www.zoho.com/us/inventory/kb/purchase-order/po-receives.html",
+      "支持采购收货和部分收货登记。",
+      "加入累计到货与本次核对；未全部到齐不能进入待发货。"
+    ]
+  ],
+  "fish": [
+    [
+      "Fishbrain",
+      "https://fishbrain.com/features/logbook",
+      "日志用于回看渔获、鱼种和饵料；真实地图可显示个人渔获位置。",
+      "加入钓点收藏、可编辑日志和饵料条数统计。地图只做明确标注的示意。"
+    ],
+    [
+      "FishAngler",
+      "https://blog.fishangler.com/how-to-log-your-catch-on-the-fishangler-app/",
+      "记录鱼种、水域和使用的钓具等渔获信息。",
+      "日志记录水域、日期、重量、饵料、钓法与放流；不推断捕鱼成功率。"
+    ]
+  ],
+  "fresh": [
+    [
+      "CRMEB",
+      "https://doc.crmeb.com/single/crmeb_v4/1003",
+      "商品活动数量受库存约束，系统区分库存与活动商品状态。",
+      "演示下单检查库存，取消恢复；商品下架与团购截止都阻止新增订单。"
+    ],
+    [
+      "Shopify",
+      "https://help.shopify.com/en/manual/products/inventory/purchase-orders",
+      "采购订单组织供应商与商品需求，并衔接接货流程。",
+      "按当前团购批次与供应商汇总商品需求，历史订单保留价格快照。"
+    ]
+  ],
+  "bom": [
+    [
+      "Airtable",
+      "https://support.airtable.com/articles/3370222027-linking-records-in-airtable",
+      "Linked record 支持表间关联和同表自关联。",
+      "提供主物料与父子关系的中间数据及映射建议；预检唯一键和引用。"
+    ],
+    [
+      "Odoo",
+      "https://www.odoo.com/documentation/19.0/applications/inventory_and_mrp/manufacturing/advanced_configuration/sub_assemblies.html",
+      "多层 BOM 将子装配结构纳入制造配置。",
+      "展开多层组件，计算材料成本，共享叶子先汇总再抵扣库存；循环关系被拒绝。"
+    ]
+  ],
+  "qa": [
+    [
+      "Qase",
+      "https://docs.qase.io/en/articles/14442829-qase-concepts",
+      "执行批次保留用例快照；结果与缺陷连接，便于追溯。",
+      "保留批次快照和追加结果历史，失败自动生成关联缺陷。"
+    ],
+    [
+      "TestRail",
+      "https://support.testrail.com/hc/en-us/articles/9444425638292-Runs-Summary-report",
+      "执行汇总报告聚合批次进度与测试活动。",
+      "报告包含执行进度、最新结果、历史证据与关联缺陷，不伪造产品测试结果。"
+    ]
+  ]
+}

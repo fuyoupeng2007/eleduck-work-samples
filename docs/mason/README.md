@@ -1,16 +1,21 @@
-# MASON METAL｜珠宝站概念样品
+# MASON METAL 银饰概念站
 
-个人独立站概念作品，采用 AI 辅助开发和原创 AI 概念图。不是品牌官方站点或已完成的客户委托，可提供网站演示、源码与 WordPress 配套包。
+基于公开设计需求制作的银饰网站概念样品，使用原创 AI 概念图。支持商品搜索与排序、收藏、三款对比、详情与通用尺码参考、购物袋和赠礼备注导出。附 Astra 子主题与 Elementor 模板。非品牌官方委托，商品与价格均为示例。
 
-![珠宝站概念页面](../../screenshots/mason-desktop.png)
+[在线体验](https://fuyoupeng2007.github.io/eleduck-work-samples/mason/) · [需求来源](https://eleduck.com/posts/98fKBO) · [全部作品](https://fuyoupeng2007.github.io/eleduck-work-samples/)
 
-- 原创银饰概念主视觉与独立戒指图，电脑和手机响应式布局。
-- 系列筛选、搜索排序、收藏、最多三款商品比较。
-- 商品详情、尺码参考、购物袋数量和移除、赠礼备注、清单下载。
-- Astra 子主题、Elementor 首页模板与安装说明。
+## 功能
 
-![商品对比](../../screenshots/mason-comparison.png)
+响应式品牌页面、搜索收藏、商品比较、购物袋、Astra 子主题与 Elementor JSON。
 
-[下载 Astra 子主题](../downloads/mason-metal-child.zip) · [Elementor 模板](../../wordpress/MASON-METAL-Elementor首页.json) · [返回三套作品集](../../README.md)
+## 体验与验收
 
-下载仓库后，用浏览器打开本目录的 `index.html` 即可体验。商品、价格、材料视觉和图片为概念示例，通用尺码参考需按实物确认。尚未连接真实交易，也未在客户 WordPress 环境安装验收。
+通过仓库根目录 `node serve.mjs` 启动，访问 `http://127.0.0.1:8770/mason/`。新六个工作台需要 HTTP 或 GitHub Pages，直接 file:// 打开无法加载 ES modules。
+
+原创银饰概念图、商品对比与选择清单，附 WordPress 配套源码。
+
+## 范围
+
+没有真实支付与库存；子主题未在客户 WordPress 环境验收。
+
+自主个人样品，使用虚构数据，AI 辅助开发；不代表雇主委托、仍在招人或已验收。

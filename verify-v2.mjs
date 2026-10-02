@@ -7,7 +7,7 @@ await fs.mkdir(out,{recursive:true});await fs.mkdir(new URL('outputs/v2/',root),
 const context=await browser.newContext({viewport:{width:1440,height:1000},acceptDownloads:true});
 const page=await context.newPage();page.setDefaultTimeout(10000);
 const errors=[],checks=[];page.on('pageerror',e=>errors.push(e.message));
-const base='http://127.0.0.1:8765/';
+const base='http://127.0.0.1:8770/';
 const go=async name=>page.locator(`[data-view=${name}]`).click();
 const snap=async name=>{await page.locator('.toast').evaluateAll(xs=>xs.forEach(x=>x.remove()));await page.screenshot({path:fileURLToPath(new URL(name+'.png',out)),fullPage:true})};
 try{

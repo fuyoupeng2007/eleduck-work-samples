@@ -1,0 +1,260 @@
+[
+  {
+    "number": 1,
+    "slug": "salon",
+    "name": "澄色门店经营看板",
+    "category": "数据分析",
+    "source": "https://eleduck.com/posts/a4fWj9",
+    "description": "基于 150 笔虚构流水制作的门店经营看板，支持日期、门店和技师筛选、等长期间比较、退款与渠道分析、到账异常核查、跟进备注和 CSV 导入导出。附可重算公式 Excel。个人演示样品，未连接真实门店系统。",
+    "highlight": "看板与公式 Excel 配套；异常备注独立保存，核查不改动财务金额。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "响应式看板、期间比较、异常核查、CSV 导入导出、公式 Excel。",
+    "limits": "没有 POS、银行对账接口；数据均为虚构示例。",
+    "offer": "服务流水整理、Excel 模板或经营看板小模块。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/salon/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/salon",
+    "screenshot": "screenshots/salon-desktop.png",
+    "competitors": []
+  },
+  {
+    "number": 2,
+    "slug": "expo",
+    "name": "序场会展运营原型",
+    "category": "产品原型",
+    "source": "https://eleduck.com/posts/R3fgoW",
+    "description": "自主制作的会展运营交互原型，覆盖活动、报名配置、票种、议程嘉宾、名单、签到、展位、统计和沟通草稿 9 个模块。支持参会者预览、容量与议程冲突检查、批量签到、取消及撤销记录。个人演示，不是上线 SaaS。",
+    "highlight": "主办方与参会者双视角，报名到签到连续体验，容量和议程冲突可校验。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "9 个运营模块、参会者预览、名额校验、议程冲突、批量签到、导出。",
+    "limits": "没有后端鉴权、票务支付、真实二维码核验与跨设备同步。",
+    "offer": "交互原型、需求文档、报名到签到的一个验收模块。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/expo/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/expo",
+    "screenshot": "screenshots/expo-desktop.png",
+    "competitors": []
+  },
+  {
+    "number": 3,
+    "slug": "mason",
+    "name": "MASON METAL 银饰概念站",
+    "category": "品牌网站",
+    "source": "https://eleduck.com/posts/98fKBO",
+    "description": "基于公开设计需求制作的银饰网站概念样品，使用原创 AI 概念图。支持商品搜索与排序、收藏、三款对比、详情与通用尺码参考、购物袋和赠礼备注导出。附 Astra 子主题与 Elementor 模板。非品牌官方委托，商品与价格均为示例。",
+    "highlight": "原创银饰概念图、商品对比与选择清单，附 WordPress 配套源码。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "响应式品牌页面、搜索收藏、商品比较、购物袋、Astra 子主题与 Elementor JSON。",
+    "limits": "没有真实支付与库存；子主题未在客户 WordPress 环境验收。",
+    "offer": "品牌首页视觉与单页搭建，先确认实际素材与运行环境。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/mason/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/mason",
+    "screenshot": "screenshots/mason-desktop.png",
+    "competitors": []
+  },
+  {
+    "number": 4,
+    "slug": "ops",
+    "name": "合序企业流程台",
+    "category": "业务工具",
+    "source": "https://eleduck.com/posts/gYf7xg",
+    "description": "依据企业数字化需求摘要自主制作的业务工作台。支持费用录入、金额分级审批、合同台账、分次回款、超额回款拒绝、经营规则摘要与操作记录。支持本地备份恢复与 CSV 导出。个人演示，未接企业系统或大模型。",
+    "highlight": "两级审批、分次回款与完整操作记录；金额校验失败不写入原台账。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "费用审批、合同回款、规则摘要、操作记录、备份恢复、台账导出。",
+    "limits": "无真实账号权限、RPA、CRM API、AI 知识库或自动报表推送。",
+    "offer": "先报价费用审批或合同回款单模块，不能用样品承诺全企业数字化。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/ops/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/ops",
+    "screenshot": "screenshots/ops-desktop.png",
+    "competitors": [
+      [
+        "Lark Approval",
+        "https://www.larksuite.com/hc/en-US/articles/953059117412-admin-get-started-with-managing-approval",
+        "管理员可以配置审批人和条件分支。",
+        "采用固定示例阈值的经理→财务两级审批；保留意见和操作记录。"
+      ],
+      [
+        "Notion",
+        "https://www.notion.com/help/relations-and-rollups",
+        "数据库可用关联与汇总组织关系数据。",
+        "将费用、合同与回款整理在同一个工作台，但不提供自由数据库建模。"
+      ]
+    ]
+  },
+  {
+    "number": 5,
+    "slug": "orders",
+    "name": "渡单跨境订单工作台",
+    "category": "运营工具",
+    "source": "https://eleduck.com/posts/Ygf53K",
+    "description": "面向跨境电商运营流程自主制作的订单工作台。支持订单登记、采购流转、部分到货、负责人及备注、物流单号与异常跟进、供应商采购汇总。不同币种金额分列，支持 CSV 导出和备份恢复。依据兼职岗位制作，未连接真实电商及物流。",
+    "highlight": "逾期与物流异常优先队列；部分到货可追溯，多币种金额分开统计。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "订单登记、状态流转、部分到货、异常跟进、采购汇总、币种分列。",
+    "limits": "原需求是运营助理兼职，不是软件开发订单；无平台 API 或真实物流查询。",
+    "offer": "作为运营助理试岗辅助工具；接兼职仍需稳定投入日常订单工作。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/orders/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/orders",
+    "screenshot": "screenshots/orders-desktop.png",
+    "competitors": [
+      [
+        "Shopify",
+        "https://help.shopify.com/en/manual/products/inventory/purchase-orders",
+        "采购订单记录供应商、数量与成本等商业信息，并可跟踪后续库存转移。",
+        "补齐供应商与 SKU 汇总，记录采购、到货、发货；不计算未提供的采购成本。"
+      ],
+      [
+        "Zoho Inventory",
+        "https://www.zoho.com/us/inventory/kb/purchase-order/po-receives.html",
+        "支持采购收货和部分收货登记。",
+        "加入累计到货与本次核对；未全部到齐不能进入待发货。"
+      ]
+    ]
+  },
+  {
+    "number": 6,
+    "slug": "fish",
+    "name": "钓迹钓点与渔获日志",
+    "category": "移动原型",
+    "source": "https://eleduck.com/posts/lafmO1",
+    "description": "依据钓鱼类小程序需求制作的响应式 Web 个人样品。支持示意钓点筛选、收藏、渔获日志录入及编辑、鱼种和饵料记录、放流标记、统计与 CSV 导出。可备份恢复。钓点为虚构示意，未接真实地图，未发布微信小程序。",
+    "highlight": "收藏到日志连续操作，渔获可编辑和导出，手机布局便于查看。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "示意钓点筛选、收藏、渔获日志、重量校验、放流登记、日志导出。",
+    "limits": "没有 uni-app 包、地图 SDK、数据库、社交与微信登录；原岗位要求开发经验。",
+    "offer": "仅以钓点浏览或日志模块争取小范围试做；不能宣称满足全栈岗位条件。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/fish/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/fish",
+    "screenshot": "screenshots/fish-desktop.png",
+    "competitors": [
+      [
+        "Fishbrain",
+        "https://fishbrain.com/features/logbook",
+        "日志用于回看渔获、鱼种和饵料；真实地图可显示个人渔获位置。",
+        "加入钓点收藏、可编辑日志和饵料条数统计。地图只做明确标注的示意。"
+      ],
+      [
+        "FishAngler",
+        "https://blog.fishangler.com/how-to-log-your-catch-on-the-fishangler-app/",
+        "记录鱼种、水域和使用的钓具等渔获信息。",
+        "日志记录水域、日期、重量、饵料、钓法与放流；不推断捕鱼成功率。"
+      ]
+    ]
+  },
+  {
+    "number": 7,
+    "slug": "fresh",
+    "name": "鲜集团购与供应链原型",
+    "category": "电商原型",
+    "source": "https://eleduck.com/posts/2LfObD",
+    "description": "依据生鲜团购需求制作的个人 Web 样品。支持商品筛选、购物车、演示下单、库存校验与扣减、取消恢复库存、批次截单、新批次及历史订单、供应商采购汇总、商品价格库存维护和导出。价格与订单为演示，不收款，未发布微信小程序。",
+    "highlight": "订单库存联动、截单控制与按批次供应采购；历史订单保留提交时单价。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "购物车、演示下单、库存联动、取消恢复、批次管理、供应采购导出。",
+    "limits": "未接 CRMEB、真实供应链、微信支付、订阅通知、权限与退款接口。",
+    "offer": "优先用截单与供应商汇总模块谈二开，正式商城需要既有系统和支付资质。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/fresh/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/fresh",
+    "screenshot": "screenshots/fresh-desktop.png",
+    "competitors": [
+      [
+        "CRMEB",
+        "https://doc.crmeb.com/single/crmeb_v4/1003",
+        "商品活动数量受库存约束，系统区分库存与活动商品状态。",
+        "演示下单检查库存，取消恢复；商品下架与团购截止都阻止新增订单。"
+      ],
+      [
+        "Shopify",
+        "https://help.shopify.com/en/manual/products/inventory/purchase-orders",
+        "采购订单组织供应商与商品需求，并衔接接货流程。",
+        "按当前团购批次与供应商汇总商品需求，历史订单保留价格快照。"
+      ]
+    ]
+  },
+  {
+    "number": 8,
+    "slug": "bom",
+    "name": "构件BOM与迁移核查",
+    "category": "数据工具",
+    "source": "https://eleduck.com/posts/dDf39x",
+    "description": "依据 Access 向 Airtable 迁移需求制作的个人关系数据样品。支持物料维护、多层 BOM 展开、材料成本汇总、共享叶子需求与库存缺口、关系新增删除及循环检测。JSON 数据先预检再确认迁移，提供字段映射建议与采购导出。未迁移客户数据库。",
+    "highlight": "唯一编码、引用完整性与循环检测；迁移失败保留原数据，共享物料先汇总再扣库存。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "物料主表、12 层以内 BOM、成本与缺口、JSON 迁移预检、采购导出。",
+    "limits": "不读取 .mdb / .accdb，不写入 Airtable，没有两地账号权限隔离。",
+    "offer": "先接脱敏小样的数据清洗和 BOM 预检；真实迁移先备份并核对客户字段。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/bom/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/bom",
+    "screenshot": "screenshots/bom-desktop.png",
+    "competitors": [
+      [
+        "Airtable",
+        "https://support.airtable.com/articles/3370222027-linking-records-in-airtable",
+        "Linked record 支持表间关联和同表自关联。",
+        "提供主物料与父子关系的中间数据及映射建议；预检唯一键和引用。"
+      ],
+      [
+        "Odoo",
+        "https://www.odoo.com/documentation/19.0/applications/inventory_and_mrp/manufacturing/advanced_configuration/sub_assemblies.html",
+        "多层 BOM 将子装配结构纳入制造配置。",
+        "展开多层组件，计算材料成本，共享叶子先汇总再抵扣库存；循环关系被拒绝。"
+      ]
+    ]
+  },
+  {
+    "number": 9,
+    "slug": "qa",
+    "name": "验流CRM质检工作台",
+    "category": "测试工具",
+    "source": "https://eleduck.com/posts/rdf4Ww",
+    "description": "依据 CRM 测试岗位制作的个人 QA 工作台。支持用例维护、执行批次与用例快照、人工结果及证据、失败关联缺陷、回归记录和报告导出。缺陷需关联回归通过才能关闭。无预置通过结果，未实际测试招聘方 CRM，也不代表已获得测试岗位。",
+    "highlight": "用例快照与结果历史可追溯；失败关联缺陷，关闭前要求回归通过证据。",
+    "role": "产品决策 / AI 协作开发",
+    "start": "2026-10",
+    "end": "2026-10",
+    "status": "个人演示样品已完成",
+    "features": "测试用例、执行批次、快照、证据、缺陷跟进、回归记录与 JSON 报告。",
+    "limits": "原需求是 QA 兼职；没有招聘方产品访问、真实邮件集成和跨端同步验收。",
+    "offer": "用真实试用环境完成小规模测试报告；当前作品只展示记录与测试流程。",
+    "url": "https://fuyoupeng2007.github.io/eleduck-work-samples/qa/",
+    "code": "https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/qa",
+    "screenshot": "screenshots/qa-desktop.png",
+    "competitors": [
+      [
+        "Qase",
+        "https://docs.qase.io/en/articles/14442829-qase-concepts",
+        "执行批次保留用例快照；结果与缺陷连接，便于追溯。",
+        "保留批次快照和追加结果历史，失败自动生成关联缺陷。"
+      ],
+      [
+        "TestRail",
+        "https://support.testrail.com/hc/en-us/articles/9444425638292-Runs-Summary-report",
+        "执行汇总报告聚合批次进度与测试活动。",
+        "报告包含执行进度、最新结果、历史证据与关联缺陷，不伪造产品测试结果。"
+      ]
+    ]
+  }
+]

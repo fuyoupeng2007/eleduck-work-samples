@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "pages": 12,
+  "field_limits": "name<=30, description<=300, role<=20, highlight<=100",
+  "authoring": "bundled Python 3.12 + python-docx",
+  "canonical_renderer": "Attempted; bundled runtime has no LibreOffice on Windows. Failed with missing soffice.exe.",
+  "fallback_renderer": "Microsoft Word background COM export, bundled Poppler rasterization",
+  "visual_review": "All 12 pages inspected. Empty second page removed by heading page breaks. No clipping or split project pages.",
+  "private_qa_files": "Kept outside public repository"
+}
