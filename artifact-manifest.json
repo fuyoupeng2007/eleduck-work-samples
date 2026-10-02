@@ -1,290 +1,597 @@
 {
-  ".gitattributes": {
-    "bytes": 52,
-    "sha256": "59cbacf661b05b4809b15a65d8d5b197d47fc15f919f71fb36556e55438b001a"
-  },
-  ".gitignore": {
-    "bytes": 61,
-    "sha256": "1f0c56a41a3ad0193b7e6af74c6a4114b8193aba747f8b7e547731ee90d6375c"
-  },
-  ".nojekyll": {
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  "README.md": {
-    "bytes": 5145,
-    "sha256": "6ec2c1452596ceb808bad9b31c950d8472f88164931595d4a0b374702b0af7f1"
-  },
-  "docs/.nojekyll": {
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  "docs/downloads/MASON-METAL-Elementor首页.json": {
-    "bytes": 6114,
-    "sha256": "f2383a94fec00be8fcbea1eff4377619c09306fddacd15b4cca00401e7c20882"
-  },
-  "docs/downloads/WordPress安装说明.html": {
-    "bytes": 4501,
-    "sha256": "7183d35d224b742fad4eb41ec342dc9510ce7899a854559e828d0a41246acaf5"
-  },
-  "docs/downloads/mason-metal-child.zip": {
-    "bytes": 8918297,
-    "sha256": "8931fa896798845f92b37ca523ceaccfe19e6227a0de032191eda37b728bc1e8"
-  },
-  "docs/downloads/交付说明.html": {
-    "bytes": 10345,
-    "sha256": "13c4ff2d7b140c83adedb060be48561718a365e2204db07755616cafa96fad1b"
-  },
-  "docs/downloads/会展产品规格与验收.html": {
-    "bytes": 9992,
-    "sha256": "fdb2ecd0b6e5026e81788f789fcd4ad02ddba42959f84db06b0af74b163a8a8f"
-  },
-  "docs/downloads/电鸭三套成品样品.zip": {
-    "bytes": 36950752,
-    "sha256": "b36d9d424661c64d4eb82321460ec6d4c822799b6409d87036f8ce629c3b7627"
-  },
-  "docs/downloads/竞品对比与升级说明.html": {
-    "bytes": 11898,
-    "sha256": "b5d74762ad33e98ac3cf4095d9f1e9f4a8b77e2fb6c630eb0759038cc0f20972"
-  },
-  "docs/downloads/门店经营模板.xlsx": {
-    "bytes": 121130,
-    "sha256": "60495d5d3a5517d7a82c3b88ffcc91551e5d86f909caeb7fd8bac4e925f08dfc"
-  },
-  "docs/expo/README.md": {
-    "bytes": 1059,
-    "sha256": "564b9fa8703947ad83aa9f09d3fce383c106e6e8693814d46ee3130d4af40172"
-  },
-  "docs/expo/app.js": {
-    "bytes": 42621,
-    "sha256": "a13ae6c1a89df6af0678b83889e0431215af4c962e2e62b8d06f85724dbf7e48"
-  },
-  "docs/expo/expo.css": {
-    "bytes": 1791,
-    "sha256": "aa4c6a9406a2972a0f235841a96b9f32cf731e2a48e99fd96b20b78b93c67211"
-  },
-  "docs/expo/index.html": {
-    "bytes": 3177,
-    "sha256": "32ad0c27ef31d3148ad80a12ffd1f586dd647a8875f83b5757f37f9c39aee943"
-  },
-  "docs/expo/v2.css": {
-    "bytes": 14070,
-    "sha256": "f6b3ee6f1c85aa5e4706c803542401145b55529d56fc3e5d8f994288716c9fcb"
-  },
-  "docs/index.html": {
-    "bytes": 6085,
-    "sha256": "99bfa10235999efe1af6228cb4ee5bfff1821015d31ad0316b7f7599f0ba2483"
-  },
-  "docs/mason/README.md": {
-    "bytes": 1079,
-    "sha256": "a0f303a1d4edf29b2d9d0edd953a85356a9f2367024a2fd749c66cad29736161"
-  },
-  "docs/mason/app.js": {
-    "bytes": 12606,
-    "sha256": "2a6247ef2117009cb21ae06c0748a6557a9a621730bcf195d6a96ef9c88cbf25"
-  },
-  "docs/mason/assets/contour-ring.png": {
-    "bytes": 1989800,
-    "sha256": "e0e176808e24b68d9de660c34ac5bcd2187df9cf1d0f32c8917a1b443ba1827e"
-  },
-  "docs/mason/assets/fold-ring.png": {
-    "bytes": 2226140,
-    "sha256": "9cb135b3c42088c53fd14d5b41f45f8f7d4a9483f37c0fe89aecad344541b4ff"
-  },
-  "docs/mason/assets/layer-ring.png": {
-    "bytes": 2099565,
-    "sha256": "2c35bcb5fdc9577aa6c751bfe128883e8201fba6e2b9b9c56798e3499f8dba08"
-  },
-  "docs/mason/assets/silver-editorial.png": {
-    "bytes": 2653836,
-    "sha256": "8fb040eb8621af89819bc8a5b1d25b0c9bb2186181f94dab24f3bde76e17bf93"
-  },
-  "docs/mason/index.html": {
-    "bytes": 6475,
-    "sha256": "786310a9c50bb5cc567f8da73beeb22d3182ca365e287532d3239914d7073799"
-  },
-  "docs/mason/style.css": {
-    "bytes": 13454,
-    "sha256": "9c2764942733921e6ae3e6339f4017bb31d82f39937746ea3244080a22989a6a"
-  },
-  "docs/preview/expo-desktop.png": {
-    "bytes": 122526,
-    "sha256": "fe18e54f1aa020e089490759213256fb0f9e651039245196447302d92b2c447c"
-  },
-  "docs/preview/salon-desktop.png": {
-    "bytes": 148342,
-    "sha256": "4b67412fbe90e458e92a1bef1f30ac7deca78d6a3a10bfd1fae5bdfb0b16bb22"
-  },
-  "docs/salon/README.md": {
-    "bytes": 969,
-    "sha256": "5202079cc2a51433eef0f3466b3c97b54a5360979cb0c610d0757eea647c1e4e"
-  },
-  "docs/salon/app.js": {
-    "bytes": 9723,
-    "sha256": "893667033a215acc0d15ed61be713b5672f95b67cf428ef400f49053faa4847f"
-  },
-  "docs/salon/data.js": {
-    "bytes": 28720,
-    "sha256": "689cfcb920ed3ee8434bcf9fe6d899007921b4cf4e3d9e4898dd8cbaf1ad59e4"
-  },
-  "docs/salon/index.html": {
-    "bytes": 2392,
-    "sha256": "269a6b9beb926dff79bbc634bfdd069b05a402e979376e91ade9eb727161a521"
-  },
-  "docs/salon/sample-data.json": {
-    "bytes": 39503,
-    "sha256": "278cd94b68407b1de1ed47450d53c8e745e177f2d8f1904f46517182c93564c6"
-  },
-  "docs/salon/v2.css": {
-    "bytes": 2575,
-    "sha256": "333c9f0afd0147421103d24c811573b05addad9b929385e8980a55dd6e5b2f79"
-  },
-  "docs/salon/v2.js": {
-    "bytes": 8964,
-    "sha256": "f1c4210fff4e0d14785ceb2e72a43c032e415773013045664995375bb7d81ebe"
-  },
-  "docs/salon/示例流水.csv": {
-    "bytes": 13302,
-    "sha256": "698dad7b8aa4701bf5797703873ec71d68921c917a4778739d2527293e31099e"
-  },
-  "docs/shared.css": {
-    "bytes": 6192,
-    "sha256": "60e97ad96d2eec7d054da3cd127075a3f2eb13d971132be3e09dde2a52fb78db"
-  },
-  "docs/shared.js": {
-    "bytes": 828,
-    "sha256": "800364badcf16a4897744541d5550e4ae5b99135e929859eef2b54c3e53d1ed4"
-  },
-  "final-check.mjs": {
-    "bytes": 4582,
-    "sha256": "e203258d2ba258239df94737629e52c46917a56f52b3a83e46492105e7d36119"
-  },
-  "package-wordpress.mjs": {
-    "bytes": 5202,
-    "sha256": "54fdd04b31d3d91d69dec23300fe575a62de20775b26d7cb5b8fe4dbc70d4e24"
-  },
-  "package.json": {
-    "bytes": 304,
-    "sha256": "8b152d13e0e833648d9950f450408e95fda61c10c37d567e576f2d0284792424"
-  },
-  "screenshots/expo-attendee-preview.png": {
-    "bytes": 130834,
-    "sha256": "97e1e20d8ccdf66251e8d1201996a4d157664aa6ee43d8da8c8fc8fd5a3d71a5"
-  },
-  "screenshots/expo-desktop.png": {
-    "bytes": 122526,
-    "sha256": "fe18e54f1aa020e089490759213256fb0f9e651039245196447302d92b2c447c"
-  },
-  "screenshots/mason-comparison.png": {
-    "bytes": 2401127,
-    "sha256": "da1711020d85bf29f8aeacac27a2cbf2827554d835280eba3d71cf9bfa2de3dc"
-  },
-  "screenshots/mason-desktop.png": {
-    "bytes": 2724821,
-    "sha256": "f2b76919c93f9a3a33e75a9be1a160ee2cd442b5e730b66af3a194f008a7d198"
-  },
-  "screenshots/salon-desktop.png": {
-    "bytes": 148342,
-    "sha256": "4b67412fbe90e458e92a1bef1f30ac7deca78d6a3a10bfd1fae5bdfb0b16bb22"
-  },
-  "screenshots/salon-reconciliation.png": {
-    "bytes": 130437,
-    "sha256": "850fb9def4c7f6d2b9c81af0496dcb379f84c924d50e466a767e5cce9c33595d"
-  },
-  "validation/browser-checks.json": {
-    "bytes": 550,
-    "sha256": "da39aea11b3fd15081911f9d164f064d9323bf6f0c2bdc97fee6308e4a7a1ea1"
-  },
-  "validation/final-checks.json": {
-    "bytes": 208,
-    "sha256": "2cfa8bbb8bddc58d1b0ff57c6ad3c0d5f71ecb9fb7ad56edfd7f76a2730cd3fb"
-  },
-  "validation/v2-checks.json": {
-    "bytes": 807,
-    "sha256": "8922c4f05012ab312d5afc18ab3b29e28cd1ce0f4561a8b1158039cd32233e64"
-  },
-  "validation/workbook-check.json": {
-    "bytes": 569,
-    "sha256": "f107bf429834ffce9a8a29e7c6763301407cbe669f1a6934a8711c08b2b47252"
-  },
-  "verify-v2.mjs": {
-    "bytes": 12338,
-    "sha256": "b60ffa9241db92c5720ef43c496395d443b2e43fcedad2f329730f7f3d456a14"
-  },
-  "verify.mjs": {
-    "bytes": 7232,
-    "sha256": "9cf565ab6afb71e14bb92e9ce895c39da599403148637a63a71a44997ee21d73"
-  },
-  "wordpress/MASON-METAL-Elementor首页.json": {
-    "bytes": 6114,
-    "sha256": "f2383a94fec00be8fcbea1eff4377619c09306fddacd15b4cca00401e7c20882"
-  },
-  "wordpress/mason-metal-child/assets/app.js": {
-    "bytes": 12917,
-    "sha256": "47c0f24b3b755e11bb23bd8f8e041b29705fb9ea1202fc9f3d91d3ab519b4bfb"
-  },
-  "wordpress/mason-metal-child/assets/contour-ring.png": {
-    "bytes": 1989800,
-    "sha256": "e0e176808e24b68d9de660c34ac5bcd2187df9cf1d0f32c8917a1b443ba1827e"
-  },
-  "wordpress/mason-metal-child/assets/design.css": {
-    "bytes": 13682,
-    "sha256": "3004f21f369fa80464434d92593679668fc8a048f41afdbeeae0f173b34cabdd"
-  },
-  "wordpress/mason-metal-child/assets/fold-ring.png": {
-    "bytes": 2226140,
-    "sha256": "9cb135b3c42088c53fd14d5b41f45f8f7d4a9483f37c0fe89aecad344541b4ff"
-  },
-  "wordpress/mason-metal-child/assets/layer-ring.png": {
-    "bytes": 2099565,
-    "sha256": "2c35bcb5fdc9577aa6c751bfe128883e8201fba6e2b9b9c56798e3499f8dba08"
-  },
-  "wordpress/mason-metal-child/assets/shared.js": {
-    "bytes": 843,
-    "sha256": "9cc03b3da7328087d770442fe84b2586a48e8c8b02c7e3151cb7b8d9cf60ca08"
-  },
-  "wordpress/mason-metal-child/assets/silver-editorial.png": {
-    "bytes": 2653836,
-    "sha256": "8fb040eb8621af89819bc8a5b1d25b0c9bb2186181f94dab24f3bde76e17bf93"
-  },
-  "wordpress/mason-metal-child/functions.php": {
-    "bytes": 2955,
-    "sha256": "21f90baad80cf0c7b5aa1412acf316c12f9fc8f3e236a0a2ec2e4f4f200178d7"
-  },
-  "wordpress/mason-metal-child/partials/care.html": {
-    "bytes": 785,
-    "sha256": "ee00b944e752b4b3e729825dddfba309c26d8b462b12bba816fd339ed3780106"
-  },
-  "wordpress/mason-metal-child/partials/collection.html": {
-    "bytes": 1330,
-    "sha256": "a9f295cf800108e8c0e067d349178b3aed6c90b26bf1aa51979fd2a7a5435077"
-  },
-  "wordpress/mason-metal-child/partials/dialogs.html": {
-    "bytes": 1634,
-    "sha256": "b0ce316c395c3cd65194bcc056807722a06197640a76e514be0bbf69faca1de5"
-  },
-  "wordpress/mason-metal-child/partials/footer.html": {
-    "bytes": 328,
-    "sha256": "b5ac690a2801417d99893ac8bf6a406b56eae2a359819f26e53c4af9c513dfee"
-  },
-  "wordpress/mason-metal-child/partials/header.html": {
-    "bytes": 734,
-    "sha256": "88355a0d3a7405578f967ba0a6ef2f02aaf7c11e9a0d3038efa4c91f0820a19f"
-  },
-  "wordpress/mason-metal-child/partials/home.html": {
-    "bytes": 5797,
-    "sha256": "46e47f161a023374aad79fa716c0249df81ecab967cc8dbf45ac99fe56af18d0"
-  },
-  "wordpress/mason-metal-child/partials/perspective.html": {
-    "bytes": 478,
-    "sha256": "c1265ed5984c9d2910c42d7f3dbf6c2e6c6ea5d69eac4d25c382460c2797f74f"
-  },
-  "wordpress/mason-metal-child/style.css": {
-    "bytes": 854,
-    "sha256": "9a5e39c646f520be0ce872578b286f4cada49d45065c6743fbe952ddeb2f46ed"
-  },
-  "wordpress/mason-metal-child/template-mason-metal.php": {
-    "bytes": 456,
-    "sha256": "94bacdebba0eb29ed55468c52925a9e0fff48711f7f418e1caa2249377301cc6"
-  }
+  "version": 3,
+  "date": "2026-10-02",
+  "hash_basis": "Git index normalized blob bytes",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 52,
+      "sha256": "59cbacf661b05b4809b15a65d8d5b197d47fc15f919f71fb36556e55438b001a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 61,
+      "sha256": "1f0c56a41a3ad0193b7e6af74c6a4114b8193aba747f8b7e547731ee90d6375c"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4583,
+      "sha256": "fbf96fa1a51c466180d33a3f4d40c6569091ecebe593e46a359967d8adc022bb"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/bom/README.md",
+      "bytes": 1171,
+      "sha256": "49460ed3521c1c4960abc9535d28d6487fdc356a30ccbbd59aa2cdf483ad77d1"
+    },
+    {
+      "path": "docs/bom/index.html",
+      "bytes": 517,
+      "sha256": "90cb87039c05353d7f8cae7f6b2107831ef156ca2f6991961ff1c665ecf39898"
+    },
+    {
+      "path": "docs/downloads/MASON-METAL-Elementor首页.json",
+      "bytes": 6114,
+      "sha256": "f2383a94fec00be8fcbea1eff4377619c09306fddacd15b4cca00401e7c20882"
+    },
+    {
+      "path": "docs/downloads/WordPress安装说明.html",
+      "bytes": 4501,
+      "sha256": "7183d35d224b742fad4eb41ec342dc9510ce7899a854559e828d0a41246acaf5"
+    },
+    {
+      "path": "docs/downloads/mason-metal-child.zip",
+      "bytes": 8918297,
+      "sha256": "8931fa896798845f92b37ca523ceaccfe19e6227a0de032191eda37b728bc1e8"
+    },
+    {
+      "path": "docs/downloads/交付说明.html",
+      "bytes": 10345,
+      "sha256": "13c4ff2d7b140c83adedb060be48561718a365e2204db07755616cafa96fad1b"
+    },
+    {
+      "path": "docs/downloads/会展产品规格与验收.html",
+      "bytes": 9992,
+      "sha256": "fdb2ecd0b6e5026e81788f789fcd4ad02ddba42959f84db06b0af74b163a8a8f"
+    },
+    {
+      "path": "docs/downloads/电鸭三套成品样品.zip",
+      "bytes": 36950752,
+      "sha256": "b36d9d424661c64d4eb82321460ec6d4c822799b6409d87036f8ce629c3b7627"
+    },
+    {
+      "path": "docs/downloads/电鸭九项目成品.zip",
+      "bytes": 36419318,
+      "sha256": "0301b3f7241233907d7f4bcf4663c8d4e11dc63020dc01b3756e2eb9605fbece"
+    },
+    {
+      "path": "docs/downloads/电鸭作品集发布材料.docx",
+      "bytes": 1964348,
+      "sha256": "4b5595177ce6d9c1d215dc00a8710783b4c50168be6e83c9eea52f918b359104"
+    },
+    {
+      "path": "docs/downloads/竞品对比与升级说明.html",
+      "bytes": 11898,
+      "sha256": "b5d74762ad33e98ac3cf4095d9f1e9f4a8b77e2fb6c630eb0759038cc0f20972"
+    },
+    {
+      "path": "docs/downloads/门店经营模板.xlsx",
+      "bytes": 121130,
+      "sha256": "60495d5d3a5517d7a82c3b88ffcc91551e5d86f909caeb7fd8bac4e925f08dfc"
+    },
+    {
+      "path": "docs/expo/README.md",
+      "bytes": 1129,
+      "sha256": "e38cbc71093338033a18f0329fa198552ec510e7ae1f5bed13408566c9ac9d19"
+    },
+    {
+      "path": "docs/expo/app.js",
+      "bytes": 42621,
+      "sha256": "a13ae6c1a89df6af0678b83889e0431215af4c962e2e62b8d06f85724dbf7e48"
+    },
+    {
+      "path": "docs/expo/expo.css",
+      "bytes": 1791,
+      "sha256": "aa4c6a9406a2972a0f235841a96b9f32cf731e2a48e99fd96b20b78b93c67211"
+    },
+    {
+      "path": "docs/expo/index.html",
+      "bytes": 3177,
+      "sha256": "32ad0c27ef31d3148ad80a12ffd1f586dd647a8875f83b5757f37f9c39aee943"
+    },
+    {
+      "path": "docs/expo/v2.css",
+      "bytes": 14070,
+      "sha256": "f6b3ee6f1c85aa5e4706c803542401145b55529d56fc3e5d8f994288716c9fcb"
+    },
+    {
+      "path": "docs/fish/README.md",
+      "bytes": 1139,
+      "sha256": "5327e8993660c8488600b1722068b30fae0f994d6c8dc9e9dec6f7747bce5498"
+    },
+    {
+      "path": "docs/fish/index.html",
+      "bytes": 522,
+      "sha256": "151c2c33877396bd501a6896755f3004f5b82b1a0d400c6461f7652daeb9de1f"
+    },
+    {
+      "path": "docs/fresh/README.md",
+      "bytes": 1174,
+      "sha256": "2ce16654338db2943b64086d8a02819a205ba7e495ba21da2241136d7d39905d"
+    },
+    {
+      "path": "docs/fresh/index.html",
+      "bytes": 517,
+      "sha256": "4c8f9d5cd3b36b5c7d36560f2511c9adbd100b662e9846c7ce0edd780c089c01"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 11851,
+      "sha256": "5edec6be8dd6c50b5279f5eac9ce364cb2f6cf5b00933247a35619a090642da1"
+    },
+    {
+      "path": "docs/mason/README.md",
+      "bytes": 1144,
+      "sha256": "18b5d130240d899f95e191c5517b8190e8dae2d72381ef1fdcf84154435739b2"
+    },
+    {
+      "path": "docs/mason/app.js",
+      "bytes": 12606,
+      "sha256": "2a6247ef2117009cb21ae06c0748a6557a9a621730bcf195d6a96ef9c88cbf25"
+    },
+    {
+      "path": "docs/mason/assets/contour-ring.png",
+      "bytes": 1989800,
+      "sha256": "e0e176808e24b68d9de660c34ac5bcd2187df9cf1d0f32c8917a1b443ba1827e"
+    },
+    {
+      "path": "docs/mason/assets/fold-ring.png",
+      "bytes": 2226140,
+      "sha256": "9cb135b3c42088c53fd14d5b41f45f8f7d4a9483f37c0fe89aecad344541b4ff"
+    },
+    {
+      "path": "docs/mason/assets/layer-ring.png",
+      "bytes": 2099565,
+      "sha256": "2c35bcb5fdc9577aa6c751bfe128883e8201fba6e2b9b9c56798e3499f8dba08"
+    },
+    {
+      "path": "docs/mason/assets/silver-editorial.png",
+      "bytes": 2653836,
+      "sha256": "8fb040eb8621af89819bc8a5b1d25b0c9bb2186181f94dab24f3bde76e17bf93"
+    },
+    {
+      "path": "docs/mason/index.html",
+      "bytes": 6475,
+      "sha256": "786310a9c50bb5cc567f8da73beeb22d3182ca365e287532d3239914d7073799"
+    },
+    {
+      "path": "docs/mason/style.css",
+      "bytes": 13454,
+      "sha256": "9c2764942733921e6ae3e6339f4017bb31d82f39937746ea3244080a22989a6a"
+    },
+    {
+      "path": "docs/ops/README.md",
+      "bytes": 1111,
+      "sha256": "70e24f3fff612f165d121469ed556848bcb866e111ac67ebc0efeacfb3bffe8e"
+    },
+    {
+      "path": "docs/ops/index.html",
+      "bytes": 509,
+      "sha256": "fb1c864cef1fc2fdc091b9f907860adc9e743a88ec5cfc5d90f14b1284a86ef0"
+    },
+    {
+      "path": "docs/orders/README.md",
+      "bytes": 1172,
+      "sha256": "1f7d80d6e5f53878bfaaf8cf48ffb8c8870a2e401d2fb6d1b2afc23643ff2db3"
+    },
+    {
+      "path": "docs/orders/index.html",
+      "bytes": 524,
+      "sha256": "9ba7cacffcdc29edd0a7b796a6fec250b8b859bbf893c28ba507d24b844bf4cc"
+    },
+    {
+      "path": "docs/preview/bom-desktop.png",
+      "bytes": 103677,
+      "sha256": "f01565e2244011bf9dab30a7aa0568f5926ebfb851865b4675f5b0a3ecac5913"
+    },
+    {
+      "path": "docs/preview/expo-desktop.png",
+      "bytes": 122526,
+      "sha256": "fe18e54f1aa020e089490759213256fb0f9e651039245196447302d92b2c447c"
+    },
+    {
+      "path": "docs/preview/fish-desktop.png",
+      "bytes": 123364,
+      "sha256": "fd3f3741bc41d815e7369c4b3fef524951be7bdba501287a93e54365028ba00c"
+    },
+    {
+      "path": "docs/preview/fresh-desktop.png",
+      "bytes": 109966,
+      "sha256": "7c6dd9ecb49255da3e0d22724132874199a249aac89e2df52e7f45812f1c2ad8"
+    },
+    {
+      "path": "docs/preview/ops-desktop.png",
+      "bytes": 91907,
+      "sha256": "48071008fbfed2d70b6ecadd7a0e57881464cd21a1a534051791c5820954d694"
+    },
+    {
+      "path": "docs/preview/orders-desktop.png",
+      "bytes": 106920,
+      "sha256": "9cbe8a781cec94314e5248e61bc6376274c3ed3f0c2a8dbe5f699d17629bfce7"
+    },
+    {
+      "path": "docs/preview/qa-desktop.png",
+      "bytes": 93261,
+      "sha256": "65d3672c76dcda22d0ac5a7186665ac705f453a5b9049bac1da0e86dd679314b"
+    },
+    {
+      "path": "docs/preview/salon-desktop.png",
+      "bytes": 148342,
+      "sha256": "4b67412fbe90e458e92a1bef1f30ac7deca78d6a3a10bfd1fae5bdfb0b16bb22"
+    },
+    {
+      "path": "docs/projects.json",
+      "bytes": 15206,
+      "sha256": "86d213fa1f02644f41b0b0551d19effd19e2b742e314ed8d2fff0dfadbf31969"
+    },
+    {
+      "path": "docs/qa/README.md",
+      "bytes": 1171,
+      "sha256": "8746d34decf794d8a35f494639519a7a72a32c038dc90758a1c748151a474881"
+    },
+    {
+      "path": "docs/qa/index.html",
+      "bytes": 516,
+      "sha256": "3a5c0890d8a3df6039f552ed3ec43393443655b68c43eb2043779fc87975ac3a"
+    },
+    {
+      "path": "docs/research/comparison.json",
+      "bytes": 3512,
+      "sha256": "a513a723837d8f55958e215a1ab724c5c76e62acf139d25d378c86aa1896a556"
+    },
+    {
+      "path": "docs/research/index.html",
+      "bytes": 16867,
+      "sha256": "f32e679f1b851d4a8545a1ad727643e0705df7b821482afc55d2d67fb9ceb533"
+    },
+    {
+      "path": "docs/research/opportunities.json",
+      "bytes": 6206,
+      "sha256": "0f4d28c279d1f6d71da0c436de63cabe00f3cd0aafc5d85ffc09e0ffbba3200e"
+    },
+    {
+      "path": "docs/salon/README.md",
+      "bytes": 1083,
+      "sha256": "5ba38232ead54497eac9e53fb4eaa38c0bfa06589b71bd7c16356aebf60a1a56"
+    },
+    {
+      "path": "docs/salon/app.js",
+      "bytes": 9723,
+      "sha256": "893667033a215acc0d15ed61be713b5672f95b67cf428ef400f49053faa4847f"
+    },
+    {
+      "path": "docs/salon/data.js",
+      "bytes": 28720,
+      "sha256": "689cfcb920ed3ee8434bcf9fe6d899007921b4cf4e3d9e4898dd8cbaf1ad59e4"
+    },
+    {
+      "path": "docs/salon/index.html",
+      "bytes": 2392,
+      "sha256": "269a6b9beb926dff79bbc634bfdd069b05a402e979376e91ade9eb727161a521"
+    },
+    {
+      "path": "docs/salon/sample-data.json",
+      "bytes": 39503,
+      "sha256": "278cd94b68407b1de1ed47450d53c8e745e177f2d8f1904f46517182c93564c6"
+    },
+    {
+      "path": "docs/salon/v2.css",
+      "bytes": 2575,
+      "sha256": "333c9f0afd0147421103d24c811573b05addad9b929385e8980a55dd6e5b2f79"
+    },
+    {
+      "path": "docs/salon/v2.js",
+      "bytes": 8964,
+      "sha256": "f1c4210fff4e0d14785ceb2e72a43c032e415773013045664995375bb7d81ebe"
+    },
+    {
+      "path": "docs/salon/示例流水.csv",
+      "bytes": 13302,
+      "sha256": "698dad7b8aa4701bf5797703873ec71d68921c917a4778739d2527293e31099e"
+    },
+    {
+      "path": "docs/shared.css",
+      "bytes": 6192,
+      "sha256": "60e97ad96d2eec7d054da3cd127075a3f2eb13d971132be3e09dde2a52fb78db"
+    },
+    {
+      "path": "docs/shared.js",
+      "bytes": 828,
+      "sha256": "800364badcf16a4897744541d5550e4ae5b99135e929859eef2b54c3e53d1ed4"
+    },
+    {
+      "path": "docs/workbench/apps.js",
+      "bytes": 34852,
+      "sha256": "6ebd3af1ecb8c6231a94772b7250b352d1a7db1cfca187ffd73e777caeeda5ea"
+    },
+    {
+      "path": "docs/workbench/model.js",
+      "bytes": 23029,
+      "sha256": "0a964448cff728aede055f72c1f293bbe9b06fbde370b1f089441d8abbd9950e"
+    },
+    {
+      "path": "docs/workbench/ui.js",
+      "bytes": 11591,
+      "sha256": "17547e992f6c113834e92f2d9ba03204678f4eae07c923a0e581ddbd4dc78828"
+    },
+    {
+      "path": "docs/workbench/workbench.css",
+      "bytes": 10439,
+      "sha256": "67057a3dc1f7fb622d31234874ed9593b60f90ec740ef06f801d1be054c77e8b"
+    },
+    {
+      "path": "final-check.mjs",
+      "bytes": 4677,
+      "sha256": "c9eb34cb830f911f038850a0c231f24e20270aab2597fc283f16848c1e1ed903"
+    },
+    {
+      "path": "package-wordpress.mjs",
+      "bytes": 5202,
+      "sha256": "54fdd04b31d3d91d69dec23300fe575a62de20775b26d7cb5b8fe4dbc70d4e24"
+    },
+    {
+      "path": "package.json",
+      "bytes": 500,
+      "sha256": "5c94b1b672d1043fc1a0ee7976c2dcd6c5f3f5dd33c1f4817f8270631ecefff5"
+    },
+    {
+      "path": "screenshots/bom-desktop.png",
+      "bytes": 103677,
+      "sha256": "f01565e2244011bf9dab30a7aa0568f5926ebfb851865b4675f5b0a3ecac5913"
+    },
+    {
+      "path": "screenshots/bom-mobile.png",
+      "bytes": 89623,
+      "sha256": "01c5fdf8d0a614e98fa9be7152889cb2c968fcf6a2f889c60bc68ced2184f902"
+    },
+    {
+      "path": "screenshots/expo-attendee-preview.png",
+      "bytes": 130834,
+      "sha256": "97e1e20d8ccdf66251e8d1201996a4d157664aa6ee43d8da8c8fc8fd5a3d71a5"
+    },
+    {
+      "path": "screenshots/expo-desktop.png",
+      "bytes": 122526,
+      "sha256": "fe18e54f1aa020e089490759213256fb0f9e651039245196447302d92b2c447c"
+    },
+    {
+      "path": "screenshots/fish-desktop.png",
+      "bytes": 123364,
+      "sha256": "fd3f3741bc41d815e7369c4b3fef524951be7bdba501287a93e54365028ba00c"
+    },
+    {
+      "path": "screenshots/fish-mobile.png",
+      "bytes": 100901,
+      "sha256": "7dedb3abe473ac41ff471c8b1b7003f469ce29780c41b9f7b439e7de733fac15"
+    },
+    {
+      "path": "screenshots/fresh-desktop.png",
+      "bytes": 109966,
+      "sha256": "7c6dd9ecb49255da3e0d22724132874199a249aac89e2df52e7f45812f1c2ad8"
+    },
+    {
+      "path": "screenshots/fresh-mobile.png",
+      "bytes": 84381,
+      "sha256": "fbf412146d9ac2e0b11f0c13554c6ba7114c6b6d2e1a721549296187fea2d3e2"
+    },
+    {
+      "path": "screenshots/mason-comparison.png",
+      "bytes": 2401127,
+      "sha256": "da1711020d85bf29f8aeacac27a2cbf2827554d835280eba3d71cf9bfa2de3dc"
+    },
+    {
+      "path": "screenshots/mason-desktop.png",
+      "bytes": 2724821,
+      "sha256": "f2b76919c93f9a3a33e75a9be1a160ee2cd442b5e730b66af3a194f008a7d198"
+    },
+    {
+      "path": "screenshots/ops-desktop.png",
+      "bytes": 91907,
+      "sha256": "48071008fbfed2d70b6ecadd7a0e57881464cd21a1a534051791c5820954d694"
+    },
+    {
+      "path": "screenshots/ops-mobile.png",
+      "bytes": 77140,
+      "sha256": "962b48ee635ad0b5f93d12c844115ce1612ce2c7fa2664a9b7941bd23b7486b2"
+    },
+    {
+      "path": "screenshots/orders-desktop.png",
+      "bytes": 106920,
+      "sha256": "9cbe8a781cec94314e5248e61bc6376274c3ed3f0c2a8dbe5f699d17629bfce7"
+    },
+    {
+      "path": "screenshots/orders-mobile.png",
+      "bytes": 69042,
+      "sha256": "3fb999457e69939df7b5e70999f65807da69bbf742e965bf94df9d3b679b6a8f"
+    },
+    {
+      "path": "screenshots/qa-desktop.png",
+      "bytes": 93261,
+      "sha256": "65d3672c76dcda22d0ac5a7186665ac705f453a5b9049bac1da0e86dd679314b"
+    },
+    {
+      "path": "screenshots/qa-mobile.png",
+      "bytes": 70678,
+      "sha256": "3676a81187c191b06e0b6bca550d7007dba6dc8a1e3bbc56d8c04bfa9340f2e8"
+    },
+    {
+      "path": "screenshots/salon-desktop.png",
+      "bytes": 148342,
+      "sha256": "4b67412fbe90e458e92a1bef1f30ac7deca78d6a3a10bfd1fae5bdfb0b16bb22"
+    },
+    {
+      "path": "screenshots/salon-reconciliation.png",
+      "bytes": 130437,
+      "sha256": "850fb9def4c7f6d2b9c81af0496dcb379f84c924d50e466a767e5cce9c33595d"
+    },
+    {
+      "path": "serve.mjs",
+      "bytes": 1217,
+      "sha256": "caa37ea9ba81a5a6764b46cc895307e7ebb71bf38ab81f1a588245c1b9039903"
+    },
+    {
+      "path": "tests/browser.mjs",
+      "bytes": 9024,
+      "sha256": "ceed7d7e75ba322c8cec050ad267b3288609c4974b7f68d9627c66f907c5e559"
+    },
+    {
+      "path": "tests/domain.test.mjs",
+      "bytes": 5285,
+      "sha256": "966d60419e6552f6646bdce6257bbf5535509b250aa242c792de2a8b6717d145"
+    },
+    {
+      "path": "validation/batch-browser.json",
+      "bytes": 728,
+      "sha256": "88557d1b638e5d38682bb4e823f176b2ba6e46870f7720464efe5575e2163b23"
+    },
+    {
+      "path": "validation/batch-domain.json",
+      "bytes": 232,
+      "sha256": "009344319bb65c99879218daeeb1b18ee5a84af58b612354a78c3ecf2b77d87c"
+    },
+    {
+      "path": "validation/browser-checks.json",
+      "bytes": 550,
+      "sha256": "da39aea11b3fd15081911f9d164f064d9323bf6f0c2bdc97fee6308e4a7a1ea1"
+    },
+    {
+      "path": "validation/final-checks.json",
+      "bytes": 208,
+      "sha256": "0a5197142e8f381664d470a05bcb041d2d671c5ca89198c2b07f0b5dbbcec6d4"
+    },
+    {
+      "path": "validation/v2-checks.json",
+      "bytes": 807,
+      "sha256": "8922c4f05012ab312d5afc18ab3b29e28cd1ce0f4561a8b1158039cd32233e64"
+    },
+    {
+      "path": "validation/word-check.json",
+      "bytes": 561,
+      "sha256": "925d3cc6c85583e1514833e9847f33ef26e59ae3838e6fef9ce959b7ba92a2dc"
+    },
+    {
+      "path": "validation/workbook-check.json",
+      "bytes": 569,
+      "sha256": "f107bf429834ffce9a8a29e7c6763301407cbe669f1a6934a8711c08b2b47252"
+    },
+    {
+      "path": "verify-v2.mjs",
+      "bytes": 12338,
+      "sha256": "14652dda611d7c43f2e8f72d5831497d3768e654684d83db422a286b881310ea"
+    },
+    {
+      "path": "verify.mjs",
+      "bytes": 7232,
+      "sha256": "2d56426fdf3ea136bc6c50298c086ad17aa29d2163a5d70f0e19ab873ea1640a"
+    },
+    {
+      "path": "wordpress/MASON-METAL-Elementor首页.json",
+      "bytes": 6114,
+      "sha256": "f2383a94fec00be8fcbea1eff4377619c09306fddacd15b4cca00401e7c20882"
+    },
+    {
+      "path": "wordpress/mason-metal-child/assets/app.js",
+      "bytes": 12917,
+      "sha256": "47c0f24b3b755e11bb23bd8f8e041b29705fb9ea1202fc9f3d91d3ab519b4bfb"
+    },
+    {
+      "path": "wordpress/mason-metal-child/assets/contour-ring.png",
+      "bytes": 1989800,
+      "sha256": "e0e176808e24b68d9de660c34ac5bcd2187df9cf1d0f32c8917a1b443ba1827e"
+    },
+    {
+      "path": "wordpress/mason-metal-child/assets/design.css",
+      "bytes": 13682,
+      "sha256": "3004f21f369fa80464434d92593679668fc8a048f41afdbeeae0f173b34cabdd"
+    },
+    {
+      "path": "wordpress/mason-metal-child/assets/fold-ring.png",
+      "bytes": 2226140,
+      "sha256": "9cb135b3c42088c53fd14d5b41f45f8f7d4a9483f37c0fe89aecad344541b4ff"
+    },
+    {
+      "path": "wordpress/mason-metal-child/assets/layer-ring.png",
+      "bytes": 2099565,
+      "sha256": "2c35bcb5fdc9577aa6c751bfe128883e8201fba6e2b9b9c56798e3499f8dba08"
+    },
+    {
+      "path": "wordpress/mason-metal-child/assets/shared.js",
+      "bytes": 843,
+      "sha256": "9cc03b3da7328087d770442fe84b2586a48e8c8b02c7e3151cb7b8d9cf60ca08"
+    },
+    {
+      "path": "wordpress/mason-metal-child/assets/silver-editorial.png",
+      "bytes": 2653836,
+      "sha256": "8fb040eb8621af89819bc8a5b1d25b0c9bb2186181f94dab24f3bde76e17bf93"
+    },
+    {
+      "path": "wordpress/mason-metal-child/functions.php",
+      "bytes": 2955,
+      "sha256": "21f90baad80cf0c7b5aa1412acf316c12f9fc8f3e236a0a2ec2e4f4f200178d7"
+    },
+    {
+      "path": "wordpress/mason-metal-child/partials/care.html",
+      "bytes": 785,
+      "sha256": "ee00b944e752b4b3e729825dddfba309c26d8b462b12bba816fd339ed3780106"
+    },
+    {
+      "path": "wordpress/mason-metal-child/partials/collection.html",
+      "bytes": 1330,
+      "sha256": "a9f295cf800108e8c0e067d349178b3aed6c90b26bf1aa51979fd2a7a5435077"
+    },
+    {
+      "path": "wordpress/mason-metal-child/partials/dialogs.html",
+      "bytes": 1634,
+      "sha256": "b0ce316c395c3cd65194bcc056807722a06197640a76e514be0bbf69faca1de5"
+    },
+    {
+      "path": "wordpress/mason-metal-child/partials/footer.html",
+      "bytes": 328,
+      "sha256": "b5ac690a2801417d99893ac8bf6a406b56eae2a359819f26e53c4af9c513dfee"
+    },
+    {
+      "path": "wordpress/mason-metal-child/partials/header.html",
+      "bytes": 734,
+      "sha256": "88355a0d3a7405578f967ba0a6ef2f02aaf7c11e9a0d3038efa4c91f0820a19f"
+    },
+    {
+      "path": "wordpress/mason-metal-child/partials/home.html",
+      "bytes": 5797,
+      "sha256": "46e47f161a023374aad79fa716c0249df81ecab967cc8dbf45ac99fe56af18d0"
+    },
+    {
+      "path": "wordpress/mason-metal-child/partials/perspective.html",
+      "bytes": 478,
+      "sha256": "c1265ed5984c9d2910c42d7f3dbf6c2e6c6ea5d69eac4d25c382460c2797f74f"
+    },
+    {
+      "path": "wordpress/mason-metal-child/style.css",
+      "bytes": 854,
+      "sha256": "9a5e39c646f520be0ce872578b286f4cada49d45065c6743fbe952ddeb2f46ed"
+    },
+    {
+      "path": "wordpress/mason-metal-child/template-mason-metal.php",
+      "bytes": 456,
+      "sha256": "94bacdebba0eb29ed55468c52925a9e0fff48711f7f418e1caa2249377301cc6"
+    }
+  ]
 }
