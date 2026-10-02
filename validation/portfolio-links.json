@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "base": "https://fuyoupeng2007.github.io/eleduck-work-samples/",
+  "date": "2026-10-02T07:34:07.958Z",
+  "portfolio_cards": 9,
+  "category_filter": "pass",
+  "mobile_overflow": false,
+  "checks": [
+    {
+      "project": "salon",
+      "status": 200
+    },
+    {
+      "project": "expo",
+      "status": 200
+    },
+    {
+      "project": "mason",
+      "status": 200
+    },
+    {
+      "project": "ops",
+      "status": 200
+    },
+    {
+      "project": "orders",
+      "status": 200
+    },
+    {
+      "project": "fish",
+      "status": 200
+    },
+    {
+      "project": "fresh",
+      "status": 200
+    },
+    {
+      "project": "bom",
+      "status": 200
+    },
+    {
+      "project": "qa",
+      "status": 200
+    },
+    {
+      "download": "电鸭作品集发布材料.docx",
+      "status": 200,
+      "bytes": "1964348"
+    },
+    {
+      "download": "电鸭九项目成品.zip",
+      "status": 200,
+      "bytes": "36419318"
+    },
+    {
+      "download": "门店经营模板.xlsx",
+      "status": 200,
+      "bytes": "121130"
+    },
+    {
+      "download": "mason-metal-child.zip",
+      "status": 200,
+      "bytes": "8918297"
+    }
+  ],
+  "errors": []
+}

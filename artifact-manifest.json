@@ -70,8 +70,8 @@
     },
     {
       "path": "docs/downloads/电鸭九项目成品.zip",
-      "bytes": 36419318,
-      "sha256": "0301b3f7241233907d7f4bcf4663c8d4e11dc63020dc01b3756e2eb9605fbece"
+      "bytes": 37379935,
+      "sha256": "5f11cbe96fe06c224ca7141ef97cdc3edef3d6e58bec4e2d58d81fde85ee94b8"
     },
     {
       "path": "docs/downloads/电鸭作品集发布材料.docx",
@@ -135,8 +135,8 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 11851,
-      "sha256": "5edec6be8dd6c50b5279f5eac9ce364cb2f6cf5b00933247a35619a090642da1"
+      "bytes": 11869,
+      "sha256": "3c49c6c658656091d33809ee3c022d182c357f53f7ecfb9181cc7a07b080a358"
     },
     {
       "path": "docs/mason/README.md",
@@ -350,8 +350,8 @@
     },
     {
       "path": "package.json",
-      "bytes": 500,
-      "sha256": "5c94b1b672d1043fc1a0ee7976c2dcd6c5f3f5dd33c1f4817f8270631ecefff5"
+      "bytes": 550,
+      "sha256": "ef315599bd5d5bb774746d47ce93e629a85c093968d9d95f4185ebf34dfa1733"
     },
     {
       "path": "screenshots/bom-desktop.png",
@@ -424,6 +424,16 @@
       "sha256": "3fb999457e69939df7b5e70999f65807da69bbf742e965bf94df9d3b679b6a8f"
     },
     {
+      "path": "screenshots/portfolio-desktop.png",
+      "bytes": 513610,
+      "sha256": "fa595960219d7f9461185484cf1fe7fd13321d7f38bdfa2a9256b8c82f569ab1"
+    },
+    {
+      "path": "screenshots/portfolio-mobile.png",
+      "bytes": 474428,
+      "sha256": "97c0d997cf3fcb2347f6164e625259f4a46553b3c36865fd8070ca86f5c68fe2"
+    },
+    {
       "path": "screenshots/qa-desktop.png",
       "bytes": 93261,
       "sha256": "65d3672c76dcda22d0ac5a7186665ac705f453a5b9049bac1da0e86dd679314b"
@@ -459,6 +469,11 @@
       "sha256": "966d60419e6552f6646bdce6257bbf5535509b250aa242c792de2a8b6717d145"
     },
     {
+      "path": "tests/portfolio.mjs",
+      "bytes": 3186,
+      "sha256": "01fc56a88b1ddf885f59d419300899c0913daff9da784b0b0f9ac10ec4a464ad"
+    },
+    {
       "path": "validation/batch-browser.json",
       "bytes": 728,
       "sha256": "88557d1b638e5d38682bb4e823f176b2ba6e46870f7720464efe5575e2163b23"
@@ -477,6 +492,11 @@
       "path": "validation/final-checks.json",
       "bytes": 208,
       "sha256": "0a5197142e8f381664d470a05bcb041d2d671c5ca89198c2b07f0b5dbbcec6d4"
+    },
+    {
+      "path": "validation/portfolio-links.json",
+      "bytes": 1188,
+      "sha256": "9f81cdef42c230267174d54c71f22dee57fb3f050185716269f06e3230342409"
     },
     {
       "path": "validation/v2-checks.json",

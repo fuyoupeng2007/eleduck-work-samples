@@ -8,7 +8,8 @@
     "test": "node --test tests/domain.test.mjs && node tests/browser.mjs && node verify.mjs && node verify-v2.mjs && node final-check.mjs",
     "test:domain": "node --test tests/domain.test.mjs",
     "test:browser": "node tests/browser.mjs",
-    "package:wordpress": "node package-wordpress.mjs"
+    "package:wordpress": "node package-wordpress.mjs",
+    "test:portfolio": "node tests/portfolio.mjs"
   },
   "devDependencies": {
     "playwright": "1.62.1"
